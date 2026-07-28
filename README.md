@@ -89,7 +89,11 @@ Business Recommendations
 
 ## Key Business Insights
 
-- Customer spending varies across different demographic groups.
+- Male customers exhibit a higher average purchase amount than female customers.
+- Marital status has minimal influence on purchase amount.
+- Purchase behavior is relatively consistent across age groups.
+- Larger sample sizes produce narrower confidence intervals, demonstrating the Central Limit Theorem.
+- Product categories contribute more to spending variation than demographic characteristics.
 - Age and occupation influence purchasing behavior.
 - Marital status has limited impact on purchase amounts.
 - Large sample sizes improve the stability of confidence intervals.
