@@ -87,6 +87,32 @@ Business Recommendations
 
 ---
 
+## Sample Visualizations
+
+### Purchase Distribution
+
+![Purchase Distribution](Images/purchase_distribution.png)
+
+---
+
+### Gender-wise Purchase Analysis
+
+![Gender Analysis](Images/gender_analysis.png)
+
+---
+
+### Age-wise Purchase Analysis
+
+![Age Analysis](Images/age_analysis.png)
+
+---
+
+### Confidence Interval Analysis
+
+![Confidence Interval Analysis](Images/confidence_interval_analysis.png)
+
+---
+
 ## Key Business Insights
 
 - Male customers exhibit a higher average purchase amount than female customers.
@@ -104,7 +130,7 @@ Business Recommendations
 ## Business Recommendations
 
 - Develop targeted marketing campaigns for high-value customer segments.
-- Optimize promotional strategies based on customer demographics.
+- Develop personalized promotional campaigns based on customer purchasing behavior and demographic insights.
 - Improve inventory planning using purchasing trends.
 - Use statistical analysis to support business decision-making.
 
